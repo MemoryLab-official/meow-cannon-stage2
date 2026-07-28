@@ -2,6 +2,7 @@
 
 Vercel 静态部署目录。
 
+- 生产地址：https://vercel-stage2.vercel.app
 - `index.html`：完整单文件游戏，包含角色、子弹、敌人、猫王与第二关地图资源。
 - `vercel.json`：Vercel 静态站点配置。
 
